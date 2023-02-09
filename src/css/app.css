@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html,
+body {
+  max-width: 1400px;
+  margin: 0 auto !important;
+  float: none !important;
+  padding: 0px;
+}/*# sourceMappingURL=app.css.map */
